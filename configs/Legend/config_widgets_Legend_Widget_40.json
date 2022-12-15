@@ -1,0 +1,50 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "6fe2c00847614f9b85cd213e0478be40": {
+      "selected": true
+    },
+    "02973fbbe4ee4314a3d93935a74c3b30": {
+      "selected": true
+    },
+    "2703ad6929ac457fa16624cced5d4ffe": {
+      "selected": true
+    },
+    "06329db576634f93bc8af9085e25a7a9": {
+      "selected": true
+    },
+    "a4971fd818084bf2bc520c7b44fd7765": {
+      "selected": true
+    },
+    "9793aeff248141c7a410d4f30f5c3577": {
+      "selected": true
+    },
+    "9b1467ce1003429c94fed318e2660e6e": {
+      "selected": true
+    },
+    "fbb612b26a414599bac596a729cd5224": {
+      "selected": true
+    },
+    "02fa0f54b60b412183253eb26c918604": {
+      "selected": true
+    },
+    "259eadfb97394f3299ab9b0c471180e0": {
+      "selected": true
+    },
+    "2a487ebaf2f0403da08b56a00448e8da": {
+      "selected": true
+    },
+    "ed7140b983b1430c8c0e624db023ab72": {
+      "selected": true
+    },
+    "4620440142e54f578a85679c2a3a59ba": {
+      "selected": true
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}

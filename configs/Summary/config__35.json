@@ -1,0 +1,12 @@
+{
+  "displayCluster": true,
+  "showFeatureCount": true,
+  "featureCountLabel": "COUNT",
+  "summaryLayer": {
+    "fields": [],
+    "id": "02973fbbe4ee4314a3d93935a74c3b30",
+    "name": "PLTS_BALI",
+    "filterField": "",
+    "url": "02973fbbe4ee4314a3d93935a74c3b30"
+  }
+}
